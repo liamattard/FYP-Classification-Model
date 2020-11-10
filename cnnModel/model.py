@@ -50,4 +50,4 @@ def train(train_data,test_data, model):
     epochs=epochs
     )
 
-    model.save("my_model.h5")
+    model.save("my_model.hdf5")
