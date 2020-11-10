@@ -1,6 +1,6 @@
 import pathlib
-import PIL
-import matplotlib.pyplot as plt
+# import PIL
+# import matplotlib.pyplot as plt
 
 def getImages(path):
     '''
@@ -13,12 +13,12 @@ def getImages(path):
     print("Total number of classes: " + str(total_classes))
     return data
     
-def showSampleImage(data, classifier, imageNumber):
-    '''
-    Show an image from a dataset given the classifier
-    the number.
-    '''
-    label = list(data.glob(classifier + '/*'))
-    im = PIL.Image.open(str(label[imageNumber]))
-    im.show()
+# def showSampleImage(data, classifier, imageNumber):
+#     '''
+#     Show an image from a dataset given the classifier
+#     the number.
+#     '''
+#     label = list(data.glob(classifier + '/*'))
+#     im = PIL.Image.open(str(label[imageNumber]))
+#     im.show()
 

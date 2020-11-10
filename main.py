@@ -3,7 +3,7 @@ from dataHandling import dataset
 from cnnModel import model
 
 data = images.getImages('../FYP-Dataset')
-images.showSampleImage(data,"beach",2)
+# images.showSampleImage(data,"beach",2)
 
 batch_size = 32
 img_height = 180
