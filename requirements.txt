@@ -1,0 +1,117 @@
+absl-py==0.9.0
+aniso8601==8.0.0
+astor==0.8.1
+astroid==2.3.3
+astunparse==1.6.3
+attrs==19.2.0
+autopep8==1.4.4
+backcall==0.1.0
+bleach==3.1.0
+blinker==1.4
+brotlipy==0.7.0
+cachetools @ file:///tmp/build/80754af9/cachetools_1596822027882/work
+certifi==2020.6.20
+cffi==1.14.0
+chardet==3.0.4
+click==7.1.2
+cryptography==2.9.2
+cycler==0.10.0
+decorator==4.4.0
+defusedxml==0.6.0
+Flask-RESTful==0.3.8
+future==0.18.2
+gast==0.3.3
+google-auth @ file:///tmp/build/80754af9/google-auth_1596863485713/work
+google-auth-oauthlib==0.4.1
+google-pasta==0.1.8
+grpcio==1.26.0
+h5py==2.10.0
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+ipykernel==5.1.2
+ipython==7.8.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort==4.3.21
+jedi==0.15.1
+Jinja2==2.10.3
+joblib==0.14.0
+jsonschema==3.0.2
+jupyter==1.0.0
+jupyter-client==5.3.3
+jupyter-console==6.0.0
+jupyter-core==4.5.0
+Keras @ file:///tmp/build/80754af9/keras_split_1593112142734/work
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.2
+kiwisolver==1.1.0
+lazy-object-proxy==1.4.3
+Markdown==3.1.1
+matplotlib==3.1.1
+mccabe==0.6.1
+mistune==0.8.4
+mkl-fft==1.1.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+mpmath==1.1.0
+nbconvert==5.6.0
+nbformat==4.4.0
+notebook==6.0.1
+numpy==1.17.2
+oauthlib==3.1.0
+olefile==0.46
+opencv-python==4.2.0.32
+opt-einsum==3.1.0
+packaging==20.4
+pandas==0.25.3
+pandocfilters==1.4.2
+parso==0.5.1
+pickleshare==0.7.5
+Pillow @ file:///tmp/build/80754af9/pillow_1594307325547/work
+prometheus-client==0.7.1
+prompt-toolkit==2.0.10
+protobuf==3.12.3
+ptyprocess==0.6.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.7
+pycodestyle==2.5.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+Pygments==2.4.2
+PyJWT==1.7.1
+pylint==2.4.4
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
+pyparsing==2.4.2
+pyrsistent==0.15.4
+PySocks @ file:///tmp/build/80754af9/pysocks_1594394576006/work
+python-dateutil==2.8.1
+pytorch-lightning==0.9.0
+pytz==2020.1
+PyYAML==5.3.1
+pyzmq==18.1.0
+qtconsole==4.5.5
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+requests-oauthlib==1.3.0
+rope==0.16.0
+rsa @ file:///tmp/build/80754af9/rsa_1596998415516/work
+scipy @ file:///tmp/build/80754af9/scipy_1592930510235/work
+Send2Trash==1.5.0
+six==1.15.0
+sklearn==0.0
+sympy==1.5.1
+tensorboard==2.2.1
+tensorboard-plugin-wit==1.6.0
+tensorflow==2.3.0
+tensorflow-estimator==2.3.0
+termcolor==1.1.0
+terminado==0.8.2
+testpath==0.4.2
+torch==1.6.0
+tornado==6.0.3
+tqdm==4.50.0
+traitlets==4.3.3
+typed-ast==1.4.1
+urllib3 @ file:///tmp/build/80754af9/urllib3_1597086586889/work
+wcwidth==0.1.7
+webencodings==0.5.1
+Werkzeug==1.0.1
+widgetsnbextension==3.5.1
+wrapt==1.11.2

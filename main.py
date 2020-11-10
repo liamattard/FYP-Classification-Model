@@ -2,7 +2,7 @@ from dataHandling import images
 from dataHandling import dataset 
 from cnnModel import model
 
-data = images.getImages('../Dataset')
+data = images.getImages('../FYP-Dataset')
 images.showSampleImage(data,"beach",2)
 
 batch_size = 32
