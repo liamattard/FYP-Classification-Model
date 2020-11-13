@@ -13,6 +13,6 @@ img_width = 180
 # train,test = dataset.dataset_split(batch_size,img_height,img_width,data)
 # compiled_model = model.compile(img_height,img_width)
 # model.train(train,test,compiled_model)
-model = keras.models.load_model('my_model.hdf5')
+model = keras.models.load_model('my_model.h5')
 
 
