@@ -12,6 +12,7 @@ def getImages(path):
     print("Total number of images: " + str(total_images))
     print("Total number of classes: " + str(total_classes))
     return data
+
     
 # def showSampleImage(data, classifier, imageNumber):
 #     '''

@@ -30,4 +30,4 @@ def dataset_split(batch_size, img_height, img_width, data):
     train_data = train_data.cache().shuffle(1000).prefetch(buffer_size=AUTOTUNE)
     test_data = test_data.cache().prefetch(buffer_size=AUTOTUNE)
 
-    return train_data,test_data
+    return train_data,test_data,class_names

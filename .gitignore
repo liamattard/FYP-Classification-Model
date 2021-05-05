@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.hdf5
+my_model.hdf5
+
+placesclassificationModel/resnet18_places365.pth.tar
+my_model/*
+
+.pth.tar
+
+Dqq0tAGWkAU1Lal.jpg
+Dqq0tAGWkAU1Lal.jpg.1
+Dqq0tAGWkAU1Lal.jpg.2
+Dqq0tAGWkAU1Lal.jpg.3
+resnet18_places365.pth.tar
+run_placesCNN_basic.py.7b233284ad8121657424f921c333ab9b.py
