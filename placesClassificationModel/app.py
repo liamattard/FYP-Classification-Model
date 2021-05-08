@@ -10,10 +10,11 @@ app = Flask(__name__)
 def main():
     url = request.args.get("url")
     decoded_url = unquote(url)
-    print("AAAAAA", decoded_url)
+    print("Recieved URL: ", decoded_url)
+    print("\n...")
     scene = scene_detection(decoded_url)
     return scene
 
 
 if __name__ == "__main__":
-    main()
+    app.run()
